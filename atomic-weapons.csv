@@ -1,0 +1,11 @@
+﻿Country,Military Stockpile,Retired Weapons,Total Inventory,Total nuclear tests,First tested,Most recent test
+ Russia,"4,477","1,500","5,977",715,Aug-49,Oct-90
+ United States,"3,708","1,720","5,428","1,030",Jul-45,Sep-92
+ France,290,0,290,210,Feb-60,Jan-96
+ China,350,0,350,45,Oct-64,Jul-96
+ United Kingdom,180,45,225,45,Oct-52,Nov-91
+ Israel,90,0,90,0,Not yet,Not yet
+ Pakistan,165,0,165,2,May-98,May-98
+ India,160,0,160,3,May-74,May-98
+ North Korea,20,0,20,6,Oct-06,Sep-17
+Total,"9,440","3,265","12,705","2,056",,
